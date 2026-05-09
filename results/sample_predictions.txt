@@ -1,0 +1,9 @@
+Text: I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.
+Prediction: neutral
+
+Text: I need help finding the invoice for my last order. Please respond as soon as possible.
+Prediction: neutral
+
+Text: Great service and clear communication from the support team.
+Prediction: positive
+
